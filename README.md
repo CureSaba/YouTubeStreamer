@@ -1,4 +1,4 @@
-# YouTubeSteamer
+# YouTubeStreamer
 Get googlevideo.com URL from youtube using pytubefix
 # How to use
 1. Run the top code
