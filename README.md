@@ -1,5 +1,8 @@
 # YouTubeStreamer
+[ここ](https://colab.research.google.com/drive/1XF5SzrGc-YHJ0tEzzrMbkFpUNjDE7Veg?usp=sharing)から実行できます！！ [すぐに使えるWebバージョン](https://curesaba.pythonanywhere.com)
+
 YouTubeの動画のURLを取得して学校でYouTubeを見れるようにします
+
 Get googlevideo.com URL from youtube using pytubefix
 # How to use
 1. 一番上のコードを実行します
